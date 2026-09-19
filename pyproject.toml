@@ -1,0 +1,22 @@
+[project]
+name = "python-ecosystem-mastery"
+version = "1.0.0"
+description = "Ruta de Maestría Senior & Staff en Python Ecosystem: CPython Internals, GIL, FastAPI, Django, PySpark y Pytest"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "mypy>=1.9.0",
+    "ruff>=0.3.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tracks"]
+python_files = ["test_*.py", "*_test.py"]
+
+[tool.mypy]
+strict = true
+ignore_missing_imports = true

@@ -1,0 +1,11 @@
+{
+  "name": "python-ecosystem-mastery",
+  "version": "1.0.0",
+  "description": "Ruta de Maestría Senior & Staff en Python Ecosystem: CPython Internals, GIL, FastAPI, Django, PySpark y Pytest",
+  "type": "module",
+  "scripts": {
+    "py:gil:01": "python3 tracks/01-python-runtime-and-internals/01-cpython-gil-concurrency-and-memory.py",
+    "py:fastapi:01": "python3 tracks/02-frameworks-fastapi-and-django/01-fastapi-dependency-injection-and-asgi.py",
+    "py:spark:01": "python3 tracks/03-data-and-distributed-pyspark/01-pyspark-catalyst-and-shuffle-simulator.py"
+  }
+}
