@@ -4,6 +4,14 @@ Repositorio maestro de referencia técnica profunda para consolidar habilidades 
 
 ---
 
+## 🎯 Preguntas de Entrevista Técnica
+
+Para preparar entrevistas técnicas de alto nivel (**Senior Python Architect, FastAPI/Django Specialist y Data Platform Engineer**), este módulo incluye la guía:
+
+👉 **[Las 100 Preguntas Más Comunes en Entrevistas Técnicas: Python Ecosystem](./INTERVIEW-QUESTIONS.md)** (CPython Internals, GIL & Free-threading PEP 703, FastAPI ASGI, Django ORM, PySpark Catalyst/Tungsten, Pytest, con criterios 🚩 *Red Flags* vs 🟢 *Green Flags*).
+
+---
+
 ## 🌐 The Mastery Suite (Ecosistema Modular)
 
 | Repositorio | Especialidad Técnica | Enlace |
